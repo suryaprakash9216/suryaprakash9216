@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm SuryaPrakash Reddy 👋
 
-<!--
-**suryaprakash9216/suryaprakash9216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Analytics Graduate
 
-Here are some ideas to get you started:
+📊 Data Analyst skilled in SQL, Python, Power BI, Tableau, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about transforming data into actionable business insights through analytics, reporting, dashboard development, and predictive modeling.
+
+## Core Skills
+
+* SQL (Joins, CTEs, Window Functions)
+* Python (Pandas, NumPy, Scikit-learn)
+* Power BI
+* Tableau
+* Excel & Power Query
+* Data Visualization
+* KPI Reporting
+* Exploratory Data Analysis (EDA)
+* Machine Learning
+* Forecasting & Predictive Analytics
+* Business Intelligence
+
+## Currently Focused On
+
+* Advanced SQL Analytics
+* Power BI Dashboard Development
+* Supply Chain Analytics
+* Forecasting & Time Series Analysis
+* Data-Driven Decision Making
+
+## Connect With Me
+
+📧 Email: [suryaprakash9216@gmail.com](mailto:suryaprakash9216@gmail.com)
+
+🔗 LinkedIn: [www.linkedin.com/in/suryaprakash-reddy-muddireddy-207516154](http://www.linkedin.com/in/suryaprakash-reddy-muddireddy-207516154)
+ 
