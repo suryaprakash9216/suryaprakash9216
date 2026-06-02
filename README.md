@@ -2,9 +2,9 @@
 
 🎓 MSc Data Analytics Graduate
 
-📊 Data Analyst skilled in SQL, Python, Power BI, Tableau, and Machine Learning.
+📊 Data Analyst with hands-on experience in SQL, Python, Power BI, Tableau, Machine Learning, and Business Intelligence.
 
-💡 Passionate about transforming data into actionable business insights through analytics, reporting, dashboard development, and predictive modeling.
+💡 Passionate about transforming complex data into actionable insights through analytics, reporting, dashboard development, and predictive modeling.
 
 ## Core Skills
 
