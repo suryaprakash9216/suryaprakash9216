@@ -1,4 +1,4 @@
-Hi, I'm Surya Prakash Reddy 👋
+Hi, I'm Suryaprakash Reddy 👋
 
 🎓 MSc Data Analytics Graduate
 
