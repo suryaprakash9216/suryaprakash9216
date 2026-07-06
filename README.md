@@ -2,9 +2,9 @@ Hi, I'm Surya Prakash Reddy 👋
 
 🎓 MSc Data Analytics Graduate
 
-📊 Data Analyst with experience in SQL, Python, Power BI, Tableau, Microsoft Fabric, and Microsoft Azure, delivering end-to-end analytics solutions from data preparation and modelling to business intelligence reporting and cloud data integration.
+📊 Data Analyst with experience in SQL, Python, Power BI, Tableau, Microsoft Fabric, Microsoft Azure, Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs), delivering end-to-end analytics solutions from data preparation, transformation, and modelling to business intelligence reporting, AI-powered analytics, semantic search, and cloud data integration.
 
-💡 Interested in data analytics, business intelligence, cloud analytics, predictive modelling, and transforming data into meaningful business insights.
+💡 Interested in data analytics, business intelligence, artificial intelligence, Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), cloud analytics, predictive modelling, and transforming data into meaningful business insights.
 
 ---
 
@@ -17,6 +17,10 @@ Hi, I'm Surya Prakash Reddy 👋
 - Microsoft Excel
 - Microsoft Fabric (Lakehouse, Warehouse, PySpark, SQL Endpoint, Semantic Models)
 - Microsoft Azure (Azure Blob Storage, Azure Data Factory, Cloud ETL Pipelines)
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Semantic Search & Vector Embeddings
 - ETL & Data Pipelines
 - Data Warehousing & Star Schema
 - Data Cleaning & Transformation
@@ -38,8 +42,10 @@ Hi, I'm Surya Prakash Reddy 👋
 
 🌱 Currently Learning
 
+- Agentic AI
+- Azure AI Services
+- Microsoft Fabric
 - Azure Synapse Analytics
-- Analytics Engineering
 - Advanced Power BI
 - Cloud Data Platforms
 
