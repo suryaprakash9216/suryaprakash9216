@@ -1,108 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0F6E56&height=200&section=header&text=Suryaprakash%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Python%20%C2%B7%20Azure%20%C2%B7%20NLP%20%2F%20RAG&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:042C53,100:534AB7&height=180&section=header&text=SURYAPRAKASH%20REDDY&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=DATA%20ANALYST%20%E2%80%94%20SQL%20%E2%80%A2%20POWER%20BI%20%E2%80%A2%20PYTHON%20%E2%80%A2%20AZURE%20%E2%80%A2%20NLP%2FRAG&descAlignY=70&descSize=16&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=700&lines=MSc+Data+Analytics+Graduate;SQL+%C2%B7+Power+BI+%C2%B7+Python+%C2%B7+Azure+%C2%B7+Fabric;Turning+raw+data+into+business+decisions;Currently+building%3A+Retail+Root-Cause+Intelligence+System" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=534AB7&center=true&vCenter=true&width=750&lines=MSc+Data+Analytics+%C2%B7+Ireland;SQL+Server+%C2%B7+Power+BI+%C2%B7+Azure+%C2%B7+Fabric;Root-cause+analysis%2C+not+just+dashboards;Latest+build%3A+Retail+Intelligence+System+(1M%2B+rows)" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=suryaprakash9216&color=1D9E75&style=flat-square&label=PROFILE+VIEWS)
-![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Analyst%20%7C%20BI%20Analyst-1D9E75?style=flat-square)
-![Based in](https://img.shields.io/badge/BASED%20IN-Ireland-0F6E56?style=flat-square)
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20%2F%20BI%20Analyst-534AB7?style=for-the-badge&labelColor=042C53"/>
+<img src="https://img.shields.io/badge/LOCATION-Ireland-534AB7?style=for-the-badge&labelColor=042C53"/>
+<img src="https://komarev.com/ghpvc/?username=suryaprakash9216&color=534AB7&style=for-the-badge&label=VIEWS"/>
 
 </div>
 
----
+<br/>
 
-### 👋 About me
+## `01` Who I am
 
-🎓 MSc Data Analytics graduate, based in Ireland
-📊 Data Analyst with hands-on experience across SQL, Python, Power BI, Tableau, Microsoft Fabric, Microsoft Azure, NLP, Retrieval-Augmented Generation (RAG), and LLMs — delivering end-to-end analytics, from data preparation and modelling through to BI reporting, AI-powered analytics, semantic search, and cloud data integration.
-💡 Interested in business intelligence, applied AI, predictive modelling, and turning messy real-world data into decisions someone actually acts on.
+MSc Data Analytics graduate based in Ireland, building end-to-end analytics — from raw, messy data through SQL data engineering, dimensional modelling, and root-cause investigation, to Power BI reporting people actually use. I'd rather ship one project that proves an investigation than ten dashboards that just describe a number.
 
----
+<br/>
 
-### 🧰 Core skills
+## `02` Stack
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-1F6FEB?style=for-the-badge&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-7F77DD?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-7F77DD?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-7F77DD?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=mysql,py,azure,git,github&theme=dark" height="45"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL_SERVER-042C53?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-042C53?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-042C53?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/POWER_BI-042C53?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/TABLEAU-042C53?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/AZURE-042C53?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_FABRIC-042C53?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-042C53?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP_/_RAG_/_LLMs-042C53?style=flat-square"/>
 
 </div>
 
-- SQL — joins, CTEs, window functions, stored procedures, triggers, user-defined functions, events, cursors, indexing, query optimisation
-- Python — Pandas, NumPy, Matplotlib, Scikit-learn
-- Power BI — DAX, Power Query, data modelling, drill-through, conditional formatting, Row-Level Security, Power BI Service
-- Microsoft Fabric — Lakehouse, Warehouse, PySpark, SQL endpoint, semantic models
-- Microsoft Azure — Blob Storage, Data Factory, cloud ETL pipelines
-- NLP, Retrieval-Augmented Generation (RAG), LLMs, semantic search & vector embeddings
-- Data warehousing, star schema design, ETL, EDA, KPI reporting, forecasting, customer segmentation (RFM), cohort analysis, CLV, market basket analysis
+| Layer | Tools |
+|---|---|
+| Query & engineering | SQL (CTEs, window functions, stored procedures, triggers, UDFs, events, cursors, indexing), T-SQL, Python (Pandas, NumPy, Scikit-learn) |
+| Modelling & BI | Power BI (DAX, Power Query, RLS, Power BI Service), Tableau, star schema design |
+| Cloud | Microsoft Azure (Data Factory, Blob Storage), Microsoft Fabric (Lakehouse, Warehouse, PySpark) |
+| AI / NLP | Retrieval-Augmented Generation, LLMs, semantic search, vector embeddings |
+| Analytics methods | RFM segmentation, cohort analysis, CLV, market basket analysis, forecasting |
 
----
+<br/>
 
-### 📌 Featured projects
+## `03` Featured work
 
 <div align="center">
 
-<a href="https://github.com/suryaprakash9216/retail-revenue-customer-intelligence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaprakash9216&repo=retail-revenue-customer-intelligence&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/suryaprakash9216/Ireland-CPI-Intelligence-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaprakash9216&repo=Ireland-CPI-Intelligence-Platform&theme=default&hide_border=true" />
-</a>
+<a href="https://github.com/suryaprakash9216/retail-revenue-customer-intelligence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaprakash9216&repo=retail-revenue-customer-intelligence&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/suryaprakash9216/Ireland-CPI-Intelligence-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaprakash9216&repo=Ireland-CPI-Intelligence-Platform&theme=tokyonight&hide_border=true"/></a>
 
 </div>
 
-- **Retail Revenue Performance & Customer Intelligence System** — SQL Server, Power BI, DAX, Row-Level Security, KPI alerting. A full root-cause investigation on 1M+ real transactions, from raw data to an executive 3-page report.
-- **Ireland CPI Intelligence Platform** — MySQL + Power BI platform tracking Ireland's Consumer Price Index across 14 commodity groups (1996–2026), with automated ETL, stored procedures, triggers, scheduled events, and a 5-page BI report.
-- **Enterprise Supply Chain Analytics Platform** — SQL, Python, Power BI, Microsoft Fabric & Azure — forecasting and KPI reporting across 66K+ orders and 181K+ shipments.
-- **Enterprise AI Consumer Complaints Analytics Platform** — Python, NLP, RAG & LLMs — semantic search over 16M+ consumer complaint records.
+**Retail Revenue Performance & Customer Intelligence System**
+SQL Server → star schema → 7-query root-cause investigation → Power BI → RLS → KPI alerting, on 1M+ real transactions. Found and evidenced two compounding causes of a revenue dip; not a dashboard, an investigation.
 
----
+**Ireland CPI Intelligence Platform**
+MySQL + Power BI, tracking Ireland's CPI across 14 commodity groups (1996–2026) with automated ETL, stored procedures, triggers, and scheduled events.
 
-### 🌱 Currently learning
+**Enterprise Supply Chain Analytics Platform**
+SQL, Python, Power BI, Microsoft Fabric & Azure — forecasting and KPI reporting across 66K+ orders, 181K+ shipments.
 
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-2C2C2A?style=flat-square)
-![Azure AI](https://img.shields.io/badge/Azure%20AI%20Services-2C2C2A?style=flat-square)
-![Fabric](https://img.shields.io/badge/Microsoft%20Fabric-2C2C2A?style=flat-square)
-![Synapse](https://img.shields.io/badge/Azure%20Synapse-2C2C2A?style=flat-square)
-![Advanced Power BI](https://img.shields.io/badge/Advanced%20Power%20BI-2C2C2A?style=flat-square)
-![Cloud Platforms](https://img.shields.io/badge/Cloud%20Data%20Platforms-2C2C2A?style=flat-square)
+**Enterprise AI Consumer Complaints Analytics Platform**
+Python, NLP, RAG & LLMs — semantic search over 16M+ consumer complaint records.
 
----
+<br/>
 
-### 📊 By the numbers
+## `04` Currently learning
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=suryaprakash9216&show_icons=true&count_private=true&theme=default&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprakash9216&layout=compact&theme=default&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakash9216&theme=default&hide_border=true" />
+<img src="https://img.shields.io/badge/Agentic_AI-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Azure_AI_Services-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Azure_Synapse-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Advanced_Power_BI-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud_Data_Platforms-1a1a2e?style=flat-square"/>
 
 </div>
 
----
+<br/>
 
-### 📫 Connect with me
+## `05` By the numbers
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-suryaprakash9216%40gmail.com-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryaprakash9216@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F6E56?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryaprakash-reddy-muddireddy-207516154)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=suryaprakash9216&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprakash9216&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakash9216&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=100&section=footer" width="100%"/>
+<br/>
+
+## `06` Reach me
+
+<div align="center">
+
+<a href="mailto:suryaprakash9216@gmail.com"><img src="https://img.shields.io/badge/EMAIL-suryaprakash9216%40gmail.com-534AB7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=042C53"/></a>
+<a href="https://www.linkedin.com/in/suryaprakash-reddy-muddireddy-207516154"><img src="https://img.shields.io/badge/LINKEDIN-Connect-534AB7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=042C53"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:534AB7,100:042C53&height=90&section=footer" width="100%"/>
