@@ -54,16 +54,6 @@
 
 ### 📌 Featured projects
 
-<div align="center">
-
-<a href="https://github.com/suryaprakash9216/retail-revenue-customer-intelligence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaprakash9216&repo=retail-revenue-customer-intelligence&theme=default&hide_border=true" />
-</a>
-<a href="https://github.com/suryaprakash9216/Ireland-CPI-Intelligence-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryaprakash9216&repo=Ireland-CPI-Intelligence-Platform&theme=default&hide_border=true" />
-</a>
-
-</div>
 
 - **Retail Revenue Performance & Customer Intelligence System** — SQL Server, Power BI, DAX, Row-Level Security, KPI alerting. A full root-cause investigation on 1M+ real transactions, from raw data to an executive 3-page report.
 - **Ireland CPI Intelligence Platform** — MySQL + Power BI platform tracking Ireland's Consumer Price Index across 14 commodity groups (1996–2026), with automated ETL, stored procedures, triggers, scheduled events, and a 5-page BI report.
