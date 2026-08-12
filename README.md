@@ -1,124 +1,170 @@
-<div align="center">
+# Retail Revenue Performance & Customer Intelligence System | SQL Server & Power BI
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=SURYAPRAKASH%20REDDY&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20ANALYST%20%E2%80%A2%20SQL%20SERVER%20%E2%80%A2%20POWER%20BI%20%E2%80%A2%20AZURE%20%E2%80%A2%20AI%2FRAG&descAlignY=55&descSize=16"/>
+## Project Overview
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=1800&pause=600&color=E24B4A&background=00000000&center=true&vCenter=true&width=800&lines=I+don't+build+dashboards.+I+investigate.;Root+cause+found+%E2%86%92+evidenced+%E2%86%92+published.;1M%2B+real+rows.+Zero+fabricated+numbers.;MSc+Data+Analytics+%7C+Ireland" />
+This project investigates a real-world revenue and customer activity decline using a live 1M+ row transactional dataset. It follows a complete BI lifecycle — data acquisition, SQL Server data engineering, data quality investigation, dimensional modelling, root-cause analysis, and interactive Power BI dashboard development — to answer a genuine business question rather than simply visualise data.
 
-<br/>
-
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-E24B4A?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/IRELAND-16213e?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://komarev.com/ghpvc/?username=suryaprakash9216&color=E24B4A&style=for-the-badge&label=VIEWS"/>
-
-</div>
+The project simulates a real business engagement: management observes revenue and customer activity decline and requests an investigation into the cause, along with a recommended course of action.
 
 ---
 
-<div align="center">
+## Business Objectives
 
-**self-taught foundations · MSc-sharpened · every project uses real data, real numbers, no shortcuts**
-
-I build analytics that survive being questioned. Every project below has a documented data-quality process, a defensible root cause, and no invented figures anywhere.
-
-</div>
-
----
-
-<div align="center">
-
-## 🔎 Flagship: Retail Revenue Performance & Customer Intelligence System
-
-**the investigation that finds what a chart alone can't**
-
-</div>
-
-A full SQL Server → Power BI pipeline built on 1,067,371 real transactions. Not a dashboard — an investigation: seven sequential SQL queries that tested and *ruled out* pricing, cancellations, and data gaps before landing on the real cause.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/1%2C067%2C371-ROWS%20ANALYSED-E24B4A?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/1%2C055-CUSTOMERS%20CHURN%20TRACED-E24B4A?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/53.4%25-DECLINE%20ISOLATED%20TO%2020%20SKUs-E24B4A?style=for-the-badge&labelColor=1a1a2e"/>
-
-</div>
-
-| Layer | What's real |
-|---|---|
-| Data | Official UCI Online Retail II — cited, not scraped, not synthetic |
-| Engineering | SQL Server star schema, deduped, flagged (never silently deleted) |
-| Investigation | 7 queries, each ruling something in or out, logged with evidence |
-| BI | 3-page Power BI report, custom DAX, Row-Level Security, live KPI alert |
-
-**[→ github.com/suryaprakash9216/retail-revenue-customer-intelligence](https://github.com/suryaprakash9216/retail-revenue-customer-intelligence)**
+* Investigate the drivers behind a period of revenue decline.
+* Determine whether the cause was pricing, cancellations, data quality, or customer behaviour.
+* Identify which customers, products, and countries were most affected.
+* Quantify the revenue impact tied to customer churn.
+* Develop an executive-ready Power BI report with role-based security and automated alerting.
 
 ---
 
-### 🧰 Stack
+## Dataset Summary
 
-<div align="center">
+The UCI Online Retail II dataset (official UCI Machine Learning Repository) contains:
 
-<img src="https://skillicons.dev/icons?i=mysql,py,azure,git,github&theme=dark" height="48"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SQL_SERVER-1a1a2e?style=flat-square&logo=microsoftsqlserver&logoColor=E24B4A"/>
-<img src="https://img.shields.io/badge/MYSQL-1a1a2e?style=flat-square&logo=mysql&logoColor=E24B4A"/>
-<img src="https://img.shields.io/badge/PYTHON-1a1a2e?style=flat-square&logo=python&logoColor=E24B4A"/>
-<img src="https://img.shields.io/badge/POWER_BI-1a1a2e?style=flat-square&logo=powerbi&logoColor=E24B4A"/>
-<img src="https://img.shields.io/badge/TABLEAU-1a1a2e?style=flat-square&logo=tableau&logoColor=E24B4A"/>
-<img src="https://img.shields.io/badge/AZURE-1a1a2e?style=flat-square&logo=microsoftazure&logoColor=E24B4A"/>
-<img src="https://img.shields.io/badge/MS_FABRIC-1a1a2e?style=flat-square&logo=microsoft&logoColor=E24B4A"/>
-<img src="https://img.shields.io/badge/DAX-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP_%2F_RAG_%2F_LLMs-1a1a2e?style=flat-square"/>
-
-</div>
+* 1,067,371 transaction line items
+* December 2009 – December 2011
+* Real UK-based online giftware retailer
+* Order, product, customer, and country-level detail
+* Genuine data quality issues (missing customer IDs, cancellations, duplicates, invalid records)
 
 ---
 
-### 📌 More projects
+## Tools & Technologies
 
-- **Ireland CPI Intelligence Platform** — MySQL + Power BI, tracking Ireland's CPI across 14 commodity groups (1996–2026), automated ETL with stored procedures, triggers, scheduled events
-- **Enterprise Supply Chain Analytics Platform** — SQL, Python, Power BI, Fabric & Azure, forecasting across 66K+ orders, 181K+ shipments
-- **Enterprise AI Consumer Complaints Analytics Platform** — Python, NLP, RAG & LLMs, semantic search over 16M+ complaint records
-
----
-
-### 🐍 Contribution activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/suryaprakash9216/suryaprakash9216/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>animated — updates daily via GitHub Actions</sub>
-
-</div>
+* SQL Server / T-SQL
+* Power BI
+* DAX
+* Power Query
+* Power BI Service
+* Row-Level Security
+* Power BI Data Alerts
+* Data Modelling
+* ETL
 
 ---
 
-### 🏆 Stats
+## Project Workflow
 
-<div align="center">
+### 1. Data Acquisition & Staging
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=suryaprakash9216&show_icons=true&count_private=true&theme=radical&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaprakash9216&layout=compact&theme=radical&hide_border=true"/>
+Loaded raw data into SQL Server without transformation, preserving a fully auditable source layer.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakash9216&theme=radical&hide_border=true"/>
+### 2. Data Profiling & Quality Investigation
 
-<img src="https://github-profile-trophy.vercel.app/?username=suryaprakash9216&theme=radical&no-frame=true&row=1&column=6"/>
+Systematically profiled missing values, duplicates, cancellations, and invalid records, with every issue documented and a handling decision recorded.
 
-</div>
+### 3. Data Cleaning & Transformation
+
+Built repeatable SQL logic to flag (never silently delete) cancellations, invalid prices, non-product codes, and duplicate records.
+
+### 4. Dimensional Modelling
+
+Designed and built a star schema (fact and dimension tables) for analytical performance.
+
+### 5. SQL Root-Cause Investigation
+
+Ran seven sequential diagnostic queries — testing and ruling out pricing, cancellations, and data-completeness issues — before reaching an evidenced conclusion.
+
+### 6. KPI Framework
+
+Defined every metric's exact formula and assumptions before building any visual.
+
+### 7. Power BI Development
+
+Built a three-page executive report with a custom DAX measure library and visual design.
+
+### 8. Deployment & Security
+
+Published to Power BI Service with row-level security by region and a live, threshold-based KPI alert.
+
+### 9. Testing & Validation
+
+Logged UAT test scenarios and results against the finished report.
 
 ---
 
-<div align="center">
+## Key Finding
 
-### 📫 reach me
+Revenue declined for three consecutive months (February–April 2011) despite steady growth through the prior year. The investigation ruled out pricing, cancellations, and data-completeness issues, and identified two evidenced, compounding causes:
 
-<a href="mailto:suryaprakash9216@gmail.com"><img src="https://img.shields.io/badge/EMAIL-suryaprakash9216%40gmail.com-E24B4A?style=for-the-badge&labelColor=1a1a2e"/></a>
-<a href="https://www.linkedin.com/in/suryaprakash-reddy-muddireddy-207516154"><img src="https://img.shields.io/badge/LINKEDIN-Connect-E24B4A?style=for-the-badge&labelColor=1a1a2e"/></a>
+* A genuine decline in customer purchase frequency — 1,055 lower-value customers did not return, representing €595,135 in prior-year revenue.
+* A concentrated product-level effect — the top 20 declining products accounted for 53.4% of the total decline.
 
-**verify everything**
+---
 
-</div>
+## Key KPIs
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
+* Total Revenue
+* Total Orders
+* Active Customers
+* Average Order Value (AOV)
+* Cancellation Rate %
+* Year-over-Year Growth %
+* Revenue Variance Contribution %
+* Customers Churned
+
+---
+
+## Dashboard Screenshots
+
+### Executive Overview
+
+![Executive Overview](Screenshot%202026-08-12%20020252.png)
+
+### Root Cause Analysis
+
+![Root Cause Analysis](Screenshot%202026-08-12%20020313.png)
+
+### Action Tracker
+
+![Action Tracker](Screenshot%202026-08-12%20020338.png)
+
+### Row-Level Security — UK Manager
+
+![RLS UK Manager](Screenshot%202026-08-12%20030513.png)
+
+### Row-Level Security — Non-UK Manager
+
+![RLS Non-UK Manager](Screenshot%202026-08-12%20030530.png)
+
+---
+
+## Repository Structure
+
+### SQL Scripts
+
+* 02_staging_tables.sql
+* 03_data_profiling.sql
+* 04_data_cleaning.sql
+* 05_star_schema.sql
+* 06_business_analysis.sql
+
+### Power BI Dashboard
+
+* Retail_Revenue_Performance_Customer_Intelligence.pbix
+
+### Documentation
+
+* business_brief.md
+* data_quality_report.md
+* findings_log.md
+* kpi_dictionary.md
+* UAT_testing.md
+* phase10_power_automate_status.md
+
+---
+
+## Business Value
+
+* Identified the true root cause of a revenue decline using systematic SQL investigation rather than assumption.
+* Quantified real revenue-at-risk (€595,135) tied to specific customer churn.
+* Isolated a concentrated product-level effect responsible for over half the total decline.
+* Ruled out pricing and cancellations as contributing factors with direct evidence.
+* Delivered a production-style Power BI deployment with row-level security and live alerting, not just a static dashboard.
+
+---
+
+## Skills Demonstrated
+
+SQL Server | T-SQL | Power BI | DAX | Power Query | Data Modelling | Star Schema Design | Data Quality Investigation | ETL | Row-Level Security | Power BI Service | KPI Alerting | Root-Cause Analysis | Business Intelligence | Dashboard Development
